@@ -93,4 +93,4 @@ You can click the Preview link to take a look at your changes.
   "debug_playbackQuality": "large",
   "debug_date": "Sun Apr 10 2022 05:33:25 GMT-0500 (Central Daylight Time)"
 }
-i would like know what do this mean and whatnit do and how can i use it or log in to it   please help
+how can i tell if im this been forwarding or veiwed to a local network isn there a way to check   if some have time can someone show me how to set up a good router firewall setting  please post or email me :pupcash@protonmail.com
